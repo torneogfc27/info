@@ -114,6 +114,7 @@ body:before{content:"";position:fixed;inset:0;pointer-events:none;background:lin
 
     50% {
         opacity: 1;
+ }       
 }
 Footer
 @media(max-width:1050px){.roster{grid-template-columns:repeat(3,minmax(0,1fr))}.info-grid{grid-template-columns:repeat(2,1fr)}}
