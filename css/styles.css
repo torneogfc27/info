@@ -30,8 +30,8 @@ body:before{content:"";position:fixed;inset:0;pointer-events:none;background:lin
 .controller1{font-size:170px;filter:drop-shadow(0 0 30px var(--cyan));transform:rotate(-12deg);animation:float 4s ease-in-out infinite}
 .controller {
     position: relative;
-    width: 280px;
-    max-width: 70%;
+    width: 165px;
+    max-width: 72%;
     filter: drop-shadow(0 0 30px var(--cyan));
     animation: logoFloat 5s ease-in-out infinite;
     z-index: 3;
@@ -144,28 +144,8 @@ body:before{content:"";position:fixed;inset:0;pointer-events:none;background:lin
     }
 }
 @keyframes logoFloat {
-    0% {
-        transform: translate(0, 0) rotate(-2deg);
-    }
-
-    20% {
-        transform: translate(7px, -14px) rotate(2deg);
-    }
-
-    40% {
-        transform: translate(-5px, -24px) rotate(-1deg);
-    }
-
-    60% {
-        transform: translate(9px, -10px) rotate(2deg);
-    }
-
-    80% {
-        transform: translate(-7px, -20px) rotate(-2deg);
-    }
-
-    100% {
-        transform: translate(0, 0) rotate(-2deg);
+   40% {
+        transform: translate(0px, -8px) rotate(1deg);
     }
 }
 .hero-card {
