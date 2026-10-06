@@ -12,7 +12,7 @@ let APP = {
         actualizacion: "12 horas",
         fecha: "Por confirmar",
         lugar: "BAR La Alemana, Jiguaní-Granma",
-        inscripcion: "1000 cup",
+        inscripcion: "Pot confirmar",
         premios: "Por confirmar"
     },
     participantes: [],
@@ -58,7 +58,7 @@ function renderPageData() {
     set("infoPremios", t.premios || "Por confirmar");
     set("infoFecha", t.fecha || "Por confirmar");
     set("infoLugar", t.lugar || "BAR La Alemana, Jiguaní-Granma");
-    set("infoInscripcion", t.inscripcion || "1000 cup");
+    set("infoInscripcion", t.inscripcion || "Por confirmar");
     set("updateHours", t.actualizacion || "12 horas");
 
     const status = document.getElementById("rosterStatus");
