@@ -119,36 +119,16 @@
     <h2>ENTRA AL JUEGO</h2>
     <a class="btn btn-primary" href="inscripcion.html">INSCRIBIRME →</a>
 </section>
- <div class="ps4-controller">
-    <img src="img/mando-ps4.png" alt="Mando PS4">
-    <svg class="ps4-light" viewBox="0 0 300 55" preserveAspectRatio="none">
-        <defs>
-            <linearGradient id="lightGradient" x1="0" y1="0" x2="0" y2="1">
-                <stop offset="0%" stop-color="#8fffff"/>
-                <stop offset="45%" stop-color="#00eaff"/>
-                <stop offset="100%" stop-color="#00b9d8"/>
-            </linearGradient>
-            <filter id="lightGlow" x="-50%" y="-100%" width="200%" height="300%">
-                <feGaussianBlur stdDeviation="5" result="blur"/>
-                <feMerge>
-                    <feMergeNode in="blur"/>
-                    <feMergeNode in="SourceGraphic"/>
-                </feMerge>
-            </filter>
-        </defs>
-        <path
-            d="M24 8
-               C15 9 9 17 12 27
-               C15 38 27 44 43 46
-               L257 46
-               C274 44 286 37 289 27
-               C292 17 285 9 276 8
-               Z"
-            fill="url(#lightGradient)"
-            filter="url(#lightGlow)"
-        />
-    </svg>
+<div class="ps4-controller">
+    <img src="img/mando-ps4.png" alt="Mando PS4" class="ps4-base">
+
+    <!-- Resplandor exterior -->
+    <img src="img/luz.png" alt="" class="ps4-light-glow">
+
+    <!-- Luz LED -->
+    <img src="img/luz.png" alt="" class="ps4-light">
 </div>
+
 </main>
 <footer class="site-footer">
     <div class="footer-inner">
