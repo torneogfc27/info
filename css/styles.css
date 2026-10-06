@@ -87,15 +87,15 @@ body:before{content:"";position:fixed;inset:0;pointer-events:none;background:lin
 
     /* POSICIÓN SOBRE LA BARRA DEL MANDO */
     left: 50%;
-    top: 39%;
+    top: 40%;
 
     /* TAMAÑO */
-    width: 43%;
-    height: 7%;
+    width: 30%;
+    height: 4%;
 
     /* FORMA */
     transform: translateX(-50%) skewX(-8deg);
-    border-radius: 50% / 100%;
+    border-radius: 50%;
 
     /* LUZ */
     background: linear-gradient(
