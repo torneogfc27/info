@@ -27,7 +27,19 @@ body:before{content:"";position:fixed;inset:0;pointer-events:none;background:lin
 .btn-ghost{border:1px solid #ffffff20;color:#dce7f3;background:#ffffff08}
 .hero-art{height:500px;position:relative;display:flex;align-items:center;justify-content:center}
 .controller-glow{position:absolute;width:330px;height:330px;background:#00d9ff22;border-radius:50%;filter:blur(35px)}
-.controller{font-size:170px;filter:drop-shadow(0 0 30px var(--cyan));transform:rotate(-12deg);animation:float 4s ease-in-out infinite}
+.controller1{font-size:170px;filter:drop-shadow(0 0 30px var(--cyan));transform:rotate(-12deg);animation:float 4s ease-in-out infinite}
+.controller {
+    width: 280px;
+    max-width: 75%;
+    filter: drop-shadow(0 0 30px var(--cyan));
+    animation: float 4s ease-in-out infinite;
+}
+
+.controller img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
 @keyframes float{50%{transform:translateY(-18px) rotate(-8deg)}}
 .hero-card{
     position:absolute;
