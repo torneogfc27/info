@@ -20,6 +20,12 @@
             "equipo": "Lombardia",
             "foto": "assets/jugadores/yanner.jpg"
         }
+        {
+            "nombre": " Darián Alain Moreno Álvarez",
+            "id": "05111479608",
+            "equipo": "FC Barcelona",
+            "foto": "assets/jugadores/darian.jpg"
+        }
     ],
     
     "rifa": {
