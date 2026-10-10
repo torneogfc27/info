@@ -15,11 +15,11 @@
     },
     "participantes": [
         {
-            "nombre": "Juan Pérez",
-            "id": "12345678",
-            "equipo": "Real Madrid",
-            "foto": "assets/jugadores/juan.jpg"
-        },
+            "nombre": "Yanner Corrales Olivet",
+            "id": "99080219860",
+            "equipo": "Lombardia",
+            "foto": "assets/jugadores/yanner.jpg"
+        }
     ],
     
     "rifa": {
