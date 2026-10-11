@@ -31,6 +31,12 @@
             "id": "09122163129",
             "equipo": "FC Barcelona",
             "foto": "assets/jugadores/kevin.jpg"
+        },
+        {
+            "nombre": "Leonardo Castañeda Rosales",
+            "id": "05081079922",
+            "equipo": "Bayern de Múnich",
+            "foto": "assets/jugadores/leonardo.jpg"
         }
     ],
     
