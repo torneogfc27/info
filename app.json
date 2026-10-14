@@ -37,7 +37,13 @@
             "id": "05081079922",
             "equipo": "Bayern de Múnich",
             "foto": "assets/jugadores/leonardo.jpg"
-        }
+        },
+        {
+            "nombre": "Lázaro Ernesto Labañino Rodríguez ",
+            "id": "08051861223",
+            "equipo": "PSG",
+            "foto": "assets/jugadores/lazaro.jpg"
+        },
     ],
     
     "rifa": {
