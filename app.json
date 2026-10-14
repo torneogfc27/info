@@ -39,11 +39,23 @@
             "foto": "assets/jugadores/leonardo.jpg"
         },
         {
-            "nombre": "Lázaro Ernesto Labañino Rodríguez ",
+            "nombre": "Lázaro Ernesto Labañino Rodríguez",
             "id": "08051861223",
             "equipo": "PSG",
             "foto": "assets/jugadores/lazaro.jpg"
         },
+         {
+            "nombre": "Ernesto Rivero Vázquez",
+            "id": "",
+            "equipo": "FC BARCELONA",
+            "foto": "assets/jugadores/tata.jpg"
+        },
+         {
+            "nombre": "Cristian de la Rosa Mora",
+            "id": "",
+            "equipo": "Real Madrid",
+            "foto": "assets/jugadores/tata.jpg"
+         }
     ],
     
     "rifa": {
