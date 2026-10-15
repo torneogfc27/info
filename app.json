@@ -47,7 +47,7 @@
          {
             "nombre": "Ernesto Rivero Vázquez",
             "id": "",
-            "equipo": "FC BARCELONA",
+            "equipo": "FC Barcelona",
             "foto": "assets/jugadores/tata.jpg"
         },
          {
@@ -55,7 +55,19 @@
             "id": "",
             "equipo": "Real Madrid",
             "foto": "assets/jugadores/cristian.jpg"
-         }
+         },
+        {
+            "nombre": "Rafael Ríos Quesada",
+            "id": "96060822167",
+            "equipo": "FC Barcelona",
+            "foto": "assets/jugadores/rio.jpg"
+        },
+        {
+            "nombre": "Jorge Carlos Guerra Pantoja",
+            "id": "9111800600",
+            "equipo": "FC Barcelona",
+            "foto": "assets/jugadores/jorge.jpg"
+        }
     ],
     
     "rifa": {
