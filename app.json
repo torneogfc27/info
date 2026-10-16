@@ -71,7 +71,7 @@
         {
             "nombre": "Alejandro Cedeño Cabrera",
             "id": "10091060326",
-            "equipo": "",
+            "equipo": "FC Barcelona",
             "foto": "assets/jugadores/chino.jpg"
         },
         {
@@ -85,7 +85,12 @@
             "id": "08022663826",
             "equipo": "PSG",
             "foto": "assets/jugadores/juancarlos.jpg"
-        }
+        },
+        {
+            "nombre": "Diuris Daniel Rondón Pérez",
+            "id": "10092567020",
+            "equipo": "Liverpool",
+            "foto": "assets/jugadores/daniel.jpg"
     ],
     
     "rifa": {
