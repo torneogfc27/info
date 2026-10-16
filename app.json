@@ -67,6 +67,24 @@
             "id": "9111800600",
             "equipo": "FC Barcelona",
             "foto": "assets/jugadores/jorge.jpg"
+        },
+        {
+            "nombre": "Alejandro Cedeño Cabrera",
+            "id": "10091060326",
+            "equipo": "",
+            "foto": "assets/jugadores/chino.jpg"
+        },
+        {
+            "nombre": "Brayan Ramón Iglesias Martinez",
+            "id": "",
+            "equipo": "PSG",
+            "foto": "assets/jugadores/brayan.jpg"
+        },
+        {
+            "nombre": "Juan Carlos Herrera García",
+            "id": "08022663826",
+            "equipo": "PSG",
+            "foto": "assets/jugadores/juancarlos.jpg"
         }
     ],
     
