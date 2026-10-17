@@ -91,6 +91,24 @@
             "id": "10092567020",
             "equipo": "Liverpool",
             "foto": "assets/jugadores/daniel.jpg"
+        },        
+        {
+            "nombre": "José Pacheco Verdecia",
+            "id": "04071979927",
+            "equipo": "",
+            "foto": "assets/jugadores/pacheco.jpg"
+        },
+        {
+            "nombre": "Frank El castigador ",
+            "id": "87070829706",
+            "equipo": "PSG",
+            "foto": "assets/jugadores/fran.jpg"
+        },
+        {
+            "nombre": "Eduard Luna Ledea",
+            "id": "",
+            "equipo": "Real Madrid ",
+            "foto": "assets/jugadores/eduar.jpg"
         }
     ],
     
