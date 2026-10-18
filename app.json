@@ -107,9 +107,16 @@
         {
             "nombre": "Eduard Luna Ledea",
             "id": "",
-            "equipo": "Real Madrid ",
+            "equipo": "Real Madrid",
             "foto": "assets/jugadores/luna.jpg"
+        },
+        {
+            "nombre": "Reynier Pelegrín González",
+            "id": "89110712980",
+            "equipo": "",
+            "foto": "assets/jugadores/rey.jpg"
         }
+
     ],
     
     "rifa": {
