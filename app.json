@@ -121,6 +121,12 @@
             "id": "01122879920",
             "equipo": "FC Barcelona",
             "foto": "assets/jugadores/leo.jpg"
+        },
+        {
+            "nombre": "Aryan Aly Elías Rodríguez",
+            "id": "08101469323",
+            "equipo": "FC Barcelona",
+            "foto": "assets/jugadores/aly.jpg"
         }
 
 
