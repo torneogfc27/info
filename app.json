@@ -127,8 +127,13 @@
             "id": "08101469323",
             "equipo": "FC Barcelona",
             "foto": "assets/jugadores/aly.jpg"
+        },
+        {
+            "nombre": "Carlos Rafael Ramírez Celorio",
+            "id": "88041729384",
+            "equipo": "",
+            "foto": "assets/jugadores/carlo.jpg"
         }
-
 
     ],
     
