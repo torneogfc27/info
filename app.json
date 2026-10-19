@@ -139,7 +139,20 @@
             "id": "95090545788",
             "equipo": "FC Barcelona",
             "foto": "assets/jugadores/yamel.jpg"
+        },
+        {
+            "nombre": "Leonardo López Sosa",
+            "id": "",
+            "equipo": "Real Madrid",
+            "foto": "assets/jugadores/play.jpg"
+        },
+        {
+            "nombre": "Roberto Dieguez Cambara",
+            "id": "95090545788",
+            "equipo": "",
+            "foto": "assets/jugadores/play.jpg"
         }
+
 
 
     ],
