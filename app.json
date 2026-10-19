@@ -133,7 +133,14 @@
             "id": "88041729384",
             "equipo": "",
             "foto": "assets/jugadores/carlo.jpg"
+        },
+        {
+            "nombre": "Yamel Angel Tamayo Garcia",
+            "id": "95090545788",
+            "equipo": "FC Barcelona",
+            "foto": "assets/jugadores/yamel.jpg"
         }
+
 
     ],
     
