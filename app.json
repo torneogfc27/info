@@ -151,6 +151,30 @@
             "id": "",
             "equipo": "FC Barcelona",
             "foto": "assets/jugadores/play.jpg"
+        },
+ {
+            "nombre": "José Ángel Fernández Vega",
+            "id": "09070963821",
+            "equipo": "PSG",
+            "foto": "assets/jugadores/joseangel.jpg"
+        },
+        {
+            "nombre": "Yamel Angel Tamayo Garcia",
+            "id": "95090545788",
+            "equipo": "FC Barcelona",
+            "foto": "assets/jugadores/yamel.jpg"
+        },
+        {
+            "nombre": "Leonardo López Sosa",
+            "id": "",
+            "equipo": "Real Madrid",
+            "foto": "assets/jugadores/play.jpg"
+        },
+        {
+            "nombre": "Roberto Dieguez Cambara",
+            "id": "",
+            "equipo": "FC Barcelona",
+            "foto": "assets/jugadores/play.jpg"
         }
 
 
