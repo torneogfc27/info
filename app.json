@@ -159,25 +159,17 @@
             "foto": "assets/jugadores/joseangel.jpg"
         },
         {
-            "nombre": "Yamel Angel Tamayo Garcia",
-            "id": "95090545788",
-            "equipo": "FC Barcelona",
-            "foto": "assets/jugadores/yamel.jpg"
-        },
-        {
-            "nombre": "Leonardo López Sosa",
-            "id": "",
+            "nombre": "Enrique Enmanuel Liens Espinosa",
+            "id": "03011379841",
             "equipo": "Real Madrid",
-            "foto": "assets/jugadores/play.jpg"
+            "foto": "assets/jugadores/enrique.jpg"
         },
         {
-            "nombre": "Roberto Dieguez Cambara",
-            "id": "",
-            "equipo": "FC Barcelona",
-            "foto": "assets/jugadores/play.jpg"
+            "nombre": "Guillermo Medel Rodríguez",
+            "id": "93020524201",
+            "equipo": "PSG",
+            "foto": "assets/jugadores/medel.jpg"
         }
-
-
 
     ],
     
