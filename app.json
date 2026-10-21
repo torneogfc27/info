@@ -169,7 +169,14 @@
             "id": "93020524201",
             "equipo": "PSG",
             "foto": "assets/jugadores/medel.jpg"
+        },
+        {
+            "nombre": "Manuel de Jesús Pi Provance",
+            "id": "03121879967",
+            "equipo": "Real Madrid ",
+            "foto": "assets/jugadores/manuel.jpg"
         }
+
 
     ],
     
