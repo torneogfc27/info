@@ -175,6 +175,24 @@
             "id": "03121879967",
             "equipo": "Real Madrid ",
             "foto": "assets/jugadores/manuel.jpg"
+        },
+  {
+            "nombre": "Ricardo Pérez Bouza",
+            "id": "05052579929",
+            "equipo": "FC Barcelona",
+            "foto": "assets/jugadores/riky.jpg"
+        },
+        {
+            "nombre": "Kelyn Klinsmann Jorge Reyes",
+            "id": "05103079923",
+            "equipo": "Real Madrid",
+            "foto": "assets/jugadores/kelyn.jpg"
+        },
+        {
+            "nombre": "Miguelangel Tresord Aldana",
+            "id": "12010562220",
+            "equipo": "Real Madrid",
+            "foto": "assets/jugadores/aldana.jpg"
         }
 
 
