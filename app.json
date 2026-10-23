@@ -199,6 +199,12 @@
             "id": "",
             "equipo": "Real Madrid",
             "foto": "assets/jugadores/miguel.jpg"
+        },
+{
+            "nombre": "Luis Manuel Benites Ortega",
+            "id": "05032381283",
+            "equipo": "FC Barcelona",
+            "foto": "assets/jugadores/luism.jpg"
         }
 
 
