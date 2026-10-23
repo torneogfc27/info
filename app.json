@@ -193,6 +193,12 @@
             "id": "12010562220",
             "equipo": "Real Madrid",
             "foto": "assets/jugadores/aldana.jpg"
+        },
+{
+            "nombre": "Miguel Elias Labrada",
+            "id": "",
+            "equipo": "Real Madrid",
+            "foto": "assets/jugadores/miguel.jpg"
         }
 
 
